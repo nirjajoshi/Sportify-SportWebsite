@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "webdev-ff0b3": {
+      "hosting": {
+        "firebase-angular.crud": [
+          "webdev-ff0b3"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "webdev-ff0b3"
+  }
+}
